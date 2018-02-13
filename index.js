@@ -1,0 +1,1 @@
+function getOS(){var n="Unable to detect...";return-1!=navigator.appVersion.indexOf("Win")&&(n="Windows"),-1!=navigator.appVersion.indexOf("Mac")&&(n="Mac"),-1!=navigator.appVersion.indexOf("X11")&&(n="UNIX"),-1!=navigator.appVersion.indexOf("Linux")&&(n="Linux"),n}

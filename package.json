@@ -1,0 +1,12 @@
+{
+  "name": "user-os",
+  "version": "1.0.0",
+  "description": "Super simple with no bloat. 1 function gives you the user's OS. Great for flagging what the user's OS is.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["getOS", "userOS", "OS", "operating system"],
+  "author": "Thomas Boccinfuso - www.twitter.com/boccinfusoT",
+  "license": "MIT"
+}
